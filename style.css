@@ -9,9 +9,9 @@ body {
 }
 
 #container {
-  left:70px;
-  height:480px;
+  left:55px;
   width:640px;
+  height:450px;
   padding:0; 
   position:relative;
   background-color: #222222;
@@ -41,4 +41,11 @@ body {
 	color: black;
 	position: absolute;
 	border-radius: 10px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 750px;
+	border-left:1px solid #333333;
+	border-right:1px solid #333333;
 }
